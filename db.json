@@ -1,0 +1,103 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "John Doe",
+      "duration": "20 hours",
+      "rating": 4.9,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "category": "Development",
+      "popular": true
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Mastery Course",
+      "instructor": "Sarah Johnson",
+      "duration": "15 hours",
+      "rating": 5.0,
+      "level": "Intermediate",
+      "description": "Master JavaScript from basics to advanced concepts.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "category": "Programming",
+      "popular": true
+    },
+    {
+      "id": 3,
+      "title": "React Frontend Pro",
+      "instructor": "Michael Lee",
+      "duration": "18 hours",
+      "rating": 5.0,
+      "level": "Intermediate",
+      "description": "Build modern UI applications using React.js.",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "category": "Frontend",
+      "popular": true
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Science",
+      "instructor": "Emily Davis",
+      "duration": "22 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn Python, NumPy, Pandas, and data analysis tools.",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+      "category": "Data Science"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design Essentials",
+      "instructor": "David Brown",
+      "duration": "12 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn design principles, wireframing, and prototyping.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "category": "Design"
+    },
+    {
+      "id": 6,
+      "title": "Node.js Backend API Course",
+      "instructor": "Jessica Wilson",
+      "duration": "16 hours",
+      "rating": 4.8,
+      "level": "Advanced",
+      "description": "Build REST APIs and backend systems using Node.js.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "category": "Backend"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "specialty": "Full Stack Development",
+      "students": 12500,
+      "courses": 18,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "specialty": "UI/UX Design",
+      "students": 9800,
+      "courses": 12,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+    },
+
+    {
+      "id": 3,
+      "name": "Emily Davis",
+      "specialty": "Digital Marketing",
+      "students": 8700,
+      "courses": 10,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
+    }
+  ]
+}
