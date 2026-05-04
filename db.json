@@ -476,13 +476,13 @@
   "teachers": [
     {
       "id": 1,
-      "name": "Nirjhor Akash",
+      "name": "Jhankar Mahmud",
       "specialty": "Full Stack Development",
-      "students": 12500,
-      "courses": 18,
-      "rating": 4.9,
+      "students": 12800,
+      "courses": 15,
+      "rating": 100.0,
       "isTop": true,
-      "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/504180667_4284777631811604_6344591654351714900_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHUZ95xgNvjW1ynCC48AnFJQQTOBR4v-ddBBM4FHi_51-jBHehT_xwdY__8pFLp98xqZfXNYbogap_nF44CT_Op&_nc_ohc=YFRCWp2RbEoQ7kNvwGEV9Su&_nc_oc=Ado817PvK6T3y1Be0ITnbrpBeZhyO_8XTXhDPEp7dQh7mogjW22hF82kJuMn7oiDd-4&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=hOg-Tz17DWNGGVAspBcJsw&_nc_ss=7b2a8&oh=00_Af6XpT_yFWBuPcZ8uqqmmauV1qjJ2zFroEIym9tjCmIMfQ&oe=69FE6797"
+      "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/467444869_10160351769061891_3964624160658220491_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeH0EIPbI7xOJCH7-OM_9J3ZfXUvVm_77-F9dS9Wb_vv4UEmNrdTe5MNm61ipwfEtxEVgZDGtgeCHOlaKi_mUlas&_nc_ohc=h5VhIVYEP60Q7kNvwF4BBof&_nc_oc=Adp5qKu0rxXvjh_nQ4i8PnTuANMSEFKnu2x1Y022sVH3jc_wIYGpiEEDtdL_nSNtsHE&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=qZ9fvbXNrzOM_m5DLaUhog&_nc_ss=7b2a8&oh=00_Af6hTLhseBs1rgSykktCq8tY_FzqepkGs4i6iA_sFSWi5Q&oe=69FE6DD0"
     },
     {
       "id": 2,
@@ -541,13 +541,13 @@
     },
     {
       "id": 8,
-      "name": "Jhankar Mahmud",
-      "specialty": "Mobile App Development",
-      "students": 12800,
-      "courses": 15,
-      "rating": 100.0,
-      "isTop": true,
-      "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/467444869_10160351769061891_3964624160658220491_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeH0EIPbI7xOJCH7-OM_9J3ZfXUvVm_77-F9dS9Wb_vv4UEmNrdTe5MNm61ipwfEtxEVgZDGtgeCHOlaKi_mUlas&_nc_ohc=h5VhIVYEP60Q7kNvwF4BBof&_nc_oc=Adp5qKu0rxXvjh_nQ4i8PnTuANMSEFKnu2x1Y022sVH3jc_wIYGpiEEDtdL_nSNtsHE&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=qZ9fvbXNrzOM_m5DLaUhog&_nc_ss=7b2a8&oh=00_Af6hTLhseBs1rgSykktCq8tY_FzqepkGs4i6iA_sFSWi5Q&oe=69FE6DD0"
+      "name": "Nirjhor Akash",
+      "specialty": "onk valo developper trust me bro",
+      "students": 12500,
+      "courses": 18,
+      "rating": 4.2,
+
+      "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/504180667_4284777631811604_6344591654351714900_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHUZ95xgNvjW1ynCC48AnFJQQTOBR4v-ddBBM4FHi_51-jBHehT_xwdY__8pFLp98xqZfXNYbogap_nF44CT_Op&_nc_ohc=YFRCWp2RbEoQ7kNvwGEV9Su&_nc_oc=Ado817PvK6T3y1Be0ITnbrpBeZhyO_8XTXhDPEp7dQh7mogjW22hF82kJuMn7oiDd-4&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=hOg-Tz17DWNGGVAspBcJsw&_nc_ss=7b2a8&oh=00_Af6XpT_yFWBuPcZ8uqqmmauV1qjJ2zFroEIym9tjCmIMfQ&oe=69FE6797"
     },
     {
       "id": 9,
@@ -555,7 +555,8 @@
       "specialty": "Cloud Computing",
       "students": 9900,
       "courses": 13,
-      "rating": 4.2,
+      "rating": 4.9,
+      "isTop": true,
       "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
     },
     {
