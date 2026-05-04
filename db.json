@@ -574,7 +574,8 @@
       "specialty": "Artificial Intelligence",
       "students": 16700,
       "courses": 22,
-      "rating": 5.0,
+      "rating": 4.0,
+      "isTop": true,
       "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
     },
     {
@@ -593,7 +594,7 @@
       "students": 13900,
       "courses": 17,
       "rating": 4.8,
-      "isTop": true,
+
       "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
     }
   ]
