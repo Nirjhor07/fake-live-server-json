@@ -501,6 +501,96 @@
       "courses": 10,
       "rating": 4.7,
       "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "specialty": "Data Science",
+      "students": 14200,
+      "courses": 16,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    {
+      "id": 5,
+      "name": "Jessica Lee",
+      "specialty": "Machine Learning",
+      "students": 15500,
+      "courses": 20,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    {
+      "id": 6,
+      "name": "Daniel Smith",
+      "specialty": "Cyber Security",
+      "students": 11200,
+      "courses": 14,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+    },
+    {
+      "id": 7,
+      "name": "Olivia Wilson",
+      "specialty": "Graphic Design",
+      "students": 9300,
+      "courses": 11,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1"
+    },
+    {
+      "id": 8,
+      "name": "James Anderson",
+      "specialty": "Mobile App Development",
+      "students": 12800,
+      "courses": 15,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Martinez",
+      "specialty": "Cloud Computing",
+      "students": 9900,
+      "courses": 13,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+    },
+    {
+      "id": 10,
+      "name": "Ethan Clark",
+      "specialty": "DevOps Engineering",
+      "students": 10400,
+      "courses": 12,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
+    },
+    {
+      "id": 11,
+      "name": "Ava Thompson",
+      "specialty": "Artificial Intelligence",
+      "students": 16700,
+      "courses": 22,
+      "rating": 5.0,
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
+    },
+    {
+      "id": 12,
+      "name": "William Harris",
+      "specialty": "Blockchain Development",
+      "students": 8600,
+      "courses": 9,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1504257432389-52343af06ae3"
+    },
+    {
+      "id": 13,
+      "name": "Isabella White",
+      "specialty": "Software Engineering",
+      "students": 13900,
+      "courses": 17,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
     }
   ]
 }
