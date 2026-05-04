@@ -147,30 +147,325 @@
       }
     },
     {
-      "id": 6,
-      "title": "Node.js Backend API Course",
-      "instructor": "Jessica Wilson",
-      "duration": "16 hours",
-      "rating": 4.8,
-      "level": "Advanced",
-      "description": "Build REST APIs and backend systems using Node.js.",
-      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
-      "category": "Backend",
-      "price": 65,
-      "students": 5730,
-      "lessons": 68,
+      "id": 7,
+      "title": "Digital Marketing Mastery",
+      "instructor": "Sophia Lee",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Learn SEO, social media, and ads strategy.",
+      "image": "https://images.unsplash.com/photo-1557838923-2985c318be48",
+      "category": "Marketing",
+      "popular": false,
+      "price": 35,
+      "students": 7200,
+      "lessons": 40,
       "language": "English",
       "certificate": true,
-      "lastUpdated": "2026-04-01",
-      "tags": ["Node.js", "Express", "MongoDB", "JWT"],
+      "lastUpdated": "2026-02-28",
+      "tags": ["SEO", "Ads", "Social Media", "Marketing"],
       "courseDetails": {
-        "overview": "Build scalable backend systems with Node.js.",
-        "requirements": ["JavaScript knowledge required"],
+        "overview": "Grow businesses using digital marketing.",
+        "requirements": ["None"],
+        "whatYouWillLearn": ["SEO basics", "Facebook Ads", "Content strategy"]
+      }
+    },
+
+    {
+      "id": 8,
+      "title": "Mobile App Development with Flutter",
+      "instructor": "Chris Martin",
+      "duration": "22 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Build Android & iOS apps using Flutter.",
+      "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+      "category": "Development",
+      "popular": true,
+      "price": 65,
+      "students": 9300,
+      "lessons": 80,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-03-12",
+      "tags": ["Flutter", "Dart", "Mobile Apps"],
+      "courseDetails": {
+        "overview": "Create cross-platform mobile apps.",
+        "requirements": ["Basic programming knowledge"],
+        "whatYouWillLearn": ["UI design", "State management", "App publishing"]
+      }
+    },
+
+    {
+      "id": 9,
+      "title": "Cybersecurity Essentials",
+      "instructor": "James Anderson",
+      "duration": "16 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn how to protect systems and data.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "category": "Security",
+      "popular": false,
+      "price": 45,
+      "students": 8600,
+      "lessons": 65,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-01-15",
+      "tags": ["Security", "Hacking", "Networks"],
+      "courseDetails": {
+        "overview": "Understand cybersecurity fundamentals.",
+        "requirements": ["Basic IT knowledge"],
         "whatYouWillLearn": [
-          "REST API development",
-          "Authentication",
-          "Database integration",
-          "Backend deployment"
+          "Network security",
+          "Ethical hacking",
+          "Threat analysis"
+        ]
+      }
+    },
+
+    {
+      "id": 10,
+      "title": "Cloud Computing with AWS",
+      "instructor": "Robert King",
+      "duration": "24 hours",
+      "rating": 4.8,
+      "level": "Intermediate",
+      "description": "Master AWS cloud services and deployment.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "category": "Cloud",
+      "popular": true,
+      "price": 79,
+      "students": 14500,
+      "lessons": 100,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-04-10",
+      "tags": ["AWS", "Cloud", "DevOps"],
+      "courseDetails": {
+        "overview": "Learn cloud infrastructure and deployment.",
+        "requirements": ["Basic networking knowledge"],
+        "whatYouWillLearn": [
+          "AWS services",
+          "Cloud architecture",
+          "Deployment automation"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "AI Prompt Engineering Masterclass",
+      "instructor": "Daniel Carter",
+      "duration": "8 hours",
+      "rating": 4.7,
+      "level": "Beginner",
+      "description": "Master the art of writing effective prompts for AI tools.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "category": "AI",
+      "popular": true,
+      "price": 29,
+      "students": 10200,
+      "lessons": 35,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-03-28",
+      "tags": ["AI", "ChatGPT", "Prompt Engineering"],
+      "courseDetails": {
+        "overview": "Learn how to communicate effectively with AI systems.",
+        "requirements": ["Basic computer knowledge"],
+        "whatYouWillLearn": [
+          "Write effective prompts",
+          "Optimize AI responses",
+          "Use AI tools for productivity"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": "Data Structures & Algorithms in Depth",
+      "instructor": "Kevin Miller",
+      "duration": "28 hours",
+      "rating": 4.9,
+      "level": "Intermediate",
+      "description": "Strengthen your coding skills with DSA fundamentals.",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+      "category": "Programming",
+      "popular": true,
+      "price": 75,
+      "students": 21000,
+      "lessons": 110,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-02-20",
+      "tags": ["DSA", "Algorithms", "Coding"],
+      "courseDetails": {
+        "overview": "Master problem-solving techniques for interviews.",
+        "requirements": ["Basic programming knowledge"],
+        "whatYouWillLearn": [
+          "Arrays & Linked Lists",
+          "Trees & Graphs",
+          "Dynamic Programming"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": "DevOps with Docker & Kubernetes",
+      "instructor": "Mark Evans",
+      "duration": "22 hours",
+      "rating": 4.8,
+      "level": "Advanced",
+      "description": "Learn modern DevOps practices and container orchestration.",
+      "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9",
+      "category": "DevOps",
+      "popular": true,
+      "price": 85,
+      "students": 9800,
+      "lessons": 90,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-04-05",
+      "tags": ["Docker", "Kubernetes", "CI/CD"],
+      "courseDetails": {
+        "overview": "Build scalable deployment pipelines.",
+        "requirements": ["Linux basics"],
+        "whatYouWillLearn": [
+          "Containerization",
+          "Kubernetes orchestration",
+          "CI/CD pipelines"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "Graphic Design Masterclass",
+      "instructor": "Laura Bennett",
+      "duration": "14 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn Photoshop, Illustrator, and modern design skills.",
+      "image": "https://images.unsplash.com/photo-1526498460520-4c246339dccb",
+      "category": "Design",
+      "popular": false,
+      "price": 45,
+      "students": 6700,
+      "lessons": 55,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-01-30",
+      "tags": ["Photoshop", "Illustrator", "Design"],
+      "courseDetails": {
+        "overview": "Become a professional graphic designer.",
+        "requirements": ["No experience needed"],
+        "whatYouWillLearn": ["Logo design", "Brand identity", "Photo editing"]
+      }
+    },
+    {
+      "id": 15,
+      "title": "Blockchain & Web3 Development",
+      "instructor": "Steven Harris",
+      "duration": "20 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Build decentralized apps using blockchain technology.",
+      "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040",
+      "category": "Blockchain",
+      "popular": true,
+      "price": 95,
+      "students": 8900,
+      "lessons": 80,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-03-22",
+      "tags": ["Blockchain", "Web3", "Smart Contracts"],
+      "courseDetails": {
+        "overview": "Understand decentralized application development.",
+        "requirements": ["JavaScript basics"],
+        "whatYouWillLearn": ["Smart contracts", "Ethereum", "DApps development"]
+      }
+    },
+    {
+      "id": 16,
+      "title": "SQL & Database Mastery",
+      "instructor": "Rachel Green",
+      "duration": "12 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn SQL and database management from scratch.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "category": "Database",
+      "popular": true,
+      "price": 39,
+      "students": 15000,
+      "lessons": 60,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-02-15",
+      "tags": ["SQL", "Database", "MySQL", "PostgreSQL"],
+      "courseDetails": {
+        "overview": "Master relational database systems.",
+        "requirements": ["Basic computer knowledge"],
+        "whatYouWillLearn": [
+          "Write SQL queries",
+          "Database design",
+          "Data manipulation"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "title": "Cloud DevOps & AWS Advanced",
+      "instructor": "Nathan Scott",
+      "duration": "26 hours",
+      "rating": 4.9,
+      "level": "Advanced",
+      "description": "Deep dive into AWS services, scaling systems, and DevOps automation.",
+      "image": "https://images.unsplash.com/photo-1667984390527-850f2c8f7c1a",
+      "category": "Cloud",
+      "popular": true,
+      "price": 99,
+      "students": 13200,
+      "lessons": 115,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-04-18",
+      "tags": ["AWS", "DevOps", "Cloud Computing", "CI/CD"],
+      "courseDetails": {
+        "overview": "Master advanced cloud infrastructure and deployment pipelines.",
+        "requirements": ["Basic AWS knowledge", "Linux fundamentals"],
+        "whatYouWillLearn": [
+          "Advanced AWS services",
+          "Infrastructure as Code",
+          "Scalable system design"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "title": "Full Stack JavaScript with MERN",
+      "instructor": "Olivia Brown",
+      "duration": "24 hours",
+      "rating": 4.8,
+      "level": "Intermediate",
+      "description": "Build full-stack applications using MongoDB, Express, React, and Node.js.",
+      "image": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72",
+      "category": "Development",
+      "popular": true,
+      "price": 69,
+      "students": 17800,
+      "lessons": 100,
+      "language": "English",
+      "certificate": true,
+      "lastUpdated": "2026-03-30",
+      "tags": ["MongoDB", "Express", "React", "Node.js"],
+      "courseDetails": {
+        "overview": "Become a professional MERN stack developer.",
+        "requirements": ["JavaScript basics", "React knowledge"],
+        "whatYouWillLearn": [
+          "Build REST APIs",
+          "Authentication systems",
+          "Deploy full-stack apps"
         ]
       }
     }
