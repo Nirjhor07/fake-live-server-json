@@ -481,6 +481,7 @@
       "students": 12500,
       "courses": 18,
       "rating": 4.9,
+      "isTop": true,
       "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/504180667_4284777631811604_6344591654351714900_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeHUZ95xgNvjW1ynCC48AnFJQQTOBR4v-ddBBM4FHi_51-jBHehT_xwdY__8pFLp98xqZfXNYbogap_nF44CT_Op&_nc_ohc=YFRCWp2RbEoQ7kNvwGEV9Su&_nc_oc=Ado817PvK6T3y1Be0ITnbrpBeZhyO_8XTXhDPEp7dQh7mogjW22hF82kJuMn7oiDd-4&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=hOg-Tz17DWNGGVAspBcJsw&_nc_ss=7b2a8&oh=00_Af6XpT_yFWBuPcZ8uqqmmauV1qjJ2zFroEIym9tjCmIMfQ&oe=69FE6797"
     },
     {
@@ -489,7 +490,7 @@
       "specialty": "UI/UX Design",
       "students": 9800,
       "courses": 12,
-      "rating": 4.8,
+      "rating": 4.5,
       "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
     },
 
@@ -499,7 +500,7 @@
       "specialty": "Digital Marketing",
       "students": 8700,
       "courses": 10,
-      "rating": 4.7,
+      "rating": 4.2,
       "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
     },
     {
@@ -508,7 +509,7 @@
       "specialty": "Data Science",
       "students": 14200,
       "courses": 16,
-      "rating": 4.9,
+      "rating": 4.1,
       "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
     },
     {
@@ -517,7 +518,7 @@
       "specialty": "Machine Learning",
       "students": 15500,
       "courses": 20,
-      "rating": 4.9,
+      "rating": 4.6,
       "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
     },
     {
@@ -526,7 +527,7 @@
       "specialty": "Cyber Security",
       "students": 11200,
       "courses": 14,
-      "rating": 4.8,
+      "rating": 2.8,
       "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
     },
     {
@@ -540,12 +541,13 @@
     },
     {
       "id": 8,
-      "name": "James Anderson",
+      "name": "Jhankar Mahmud",
       "specialty": "Mobile App Development",
       "students": 12800,
       "courses": 15,
-      "rating": 4.8,
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+      "rating": 100.0,
+      "isTop": true,
+      "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/467444869_10160351769061891_3964624160658220491_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeH0EIPbI7xOJCH7-OM_9J3ZfXUvVm_77-F9dS9Wb_vv4UEmNrdTe5MNm61ipwfEtxEVgZDGtgeCHOlaKi_mUlas&_nc_ohc=h5VhIVYEP60Q7kNvwF4BBof&_nc_oc=Adp5qKu0rxXvjh_nQ4i8PnTuANMSEFKnu2x1Y022sVH3jc_wIYGpiEEDtdL_nSNtsHE&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=qZ9fvbXNrzOM_m5DLaUhog&_nc_ss=7b2a8&oh=00_Af6hTLhseBs1rgSykktCq8tY_FzqepkGs4i6iA_sFSWi5Q&oe=69FE6DD0"
     },
     {
       "id": 9,
@@ -553,7 +555,7 @@
       "specialty": "Cloud Computing",
       "students": 9900,
       "courses": 13,
-      "rating": 4.8,
+      "rating": 4.2,
       "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
     },
     {
@@ -562,7 +564,7 @@
       "specialty": "DevOps Engineering",
       "students": 10400,
       "courses": 12,
-      "rating": 4.7,
+      "rating": 3.7,
       "image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12"
     },
     {
@@ -580,7 +582,7 @@
       "specialty": "Blockchain Development",
       "students": 8600,
       "courses": 9,
-      "rating": 4.7,
+      "rating": 3.7,
       "image": "https://images.unsplash.com/photo-1504257432389-52343af06ae3"
     },
     {
@@ -589,7 +591,8 @@
       "specialty": "Software Engineering",
       "students": 13900,
       "courses": 17,
-      "rating": 4.9,
+      "rating": 4.8,
+      "isTop": true,
       "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
     }
   ]
